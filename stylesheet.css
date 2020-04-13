@@ -31,14 +31,14 @@ img {
 }
 
 a {
-  background: #000;
+  /* background: #000; */
   color: #fff;
   width: auto;
   height: auto;
-  margin: 0 -24px;
-  top: 47.5%;
+  /* margin: 0 -24px; */
+  top: 49%;
   right: 56.7%;
-  padding: 0 24px;
+  /* padding: 0 24px; */
   position: absolute;
   font-size: 24px;
   text-decoration: none;
@@ -56,7 +56,7 @@ p.title {
   position: absolute;
   /* right: 0px; */
   left: 0px;
-  margin: 24px;
+  margin: 20px;
   padding: 0;
 
 }
@@ -64,25 +64,25 @@ p.title {
 p.statement {
   /* background: #000; */
   color: #fff;
-  font-size: 24px;
+  font-size: 20px;
   /* line-height: 36px; */
   /* text-align: center; */
   position: absolute;
   width: 25%;
   height: auto;
-  margin: 24px;
+  margin: 20px;
   padding: 0;
 
 }
 
 p.contact {
   color: #fff;
-  font-size: 24px;
+  font-size: 20px;
   /* text-align: right; */
   position: absolute;
   /* right: 0px; */
   left: 0px;
   bottom: 0px;
-  margin: 24px;
+  margin: 20px;
   padding: 0;
 }
