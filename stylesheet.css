@@ -24,8 +24,8 @@ body {
 
 img {
   width: 100%;
-  height: auto;
   position: absolute;
+  overflow: auto;
   top: 0;
   left: 0;
 }
@@ -36,7 +36,7 @@ a {
   width: auto;
   height: auto;
   /* margin: 0 -24px; */
-  top: 48%;
+  top: 100%;
   right: 56.7%;
   /* padding: 0 24px; */
   position: absolute;
